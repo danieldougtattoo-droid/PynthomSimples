@@ -1,16 +1,11 @@
+<!-- markdownlint-disable MD033 -->
+
 # Python Simples  
 
  Este é um projeto de estudo em Python.
-<!-- markdowlint-disable MDO33>
-<p align="center">
+<div align="center">
 <img src="img/dragao.jpg"alt="Logo Dragão" width="300">
- </p>
-
- <p align="center">
- <img
- src="http://media.tenor.com/Z16zTcsfybIAAAAC/anime-naruto.gif" alt="Gif Naruto"width="300"/>
-</p>
-<!-- markdowlint-enable MDO33 -->
+ </div>
 ---
 
 ## Tecnologias utilizadas
@@ -28,3 +23,4 @@
 ```bash
 git clone
 http://github.com/seuusuario/seurepositorio.git
+
