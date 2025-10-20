@@ -3,8 +3,7 @@
  Este é um projeto de estudo em Python.
 <!-- markdowlint-disable MDO33>
 <p align="center">
-<img
- src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Dragon_icon_%28Noun_Project%29.svg/1024px-Dragon_icon_%28Noun _Project%29.svg.png" alt="Logo Dragão"width="200"/>
+<img src="img/dragao.jpg"alt="Logo Dragão" width="300">
  </p>
 
  <p align="center">
