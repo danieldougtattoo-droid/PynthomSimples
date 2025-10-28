@@ -1,10 +1,9 @@
-<!-- markdownlint-disable MD033 -->
-
 # Python Simples  
 
  Este é um projeto de estudo em Python.
-<div align="center">
+
 <img src="img/dragao.jpg"alt="Logo Dragão" width="300">
+
  </div>
 ---
 
