@@ -34,3 +34,7 @@ else:
     average = 0.0
 
 print(f"Média de avaliação do filme: {movieName} é: {average:.2f}")
+lista = [1,2,3]
+lista.append(4) 
+print(lista)
+

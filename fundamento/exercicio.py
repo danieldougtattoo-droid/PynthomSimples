@@ -18,3 +18,5 @@ print(max(productsDict, key=productsDict.get))
 # imprima a media de preço dos produtos no dicionario.
 avarage_price = sum(productsDict.values()) / len(productsDict)
 print(f"A média de preço dos produtos é: {avarage_price:.2f}")
+
+
